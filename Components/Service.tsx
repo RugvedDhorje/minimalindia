@@ -40,7 +40,7 @@ const Service = () => {
         ref={containerRef}
         className="max-w-screen-2xl w-full mx-auto rounded-t-3xl pb-40 overflow-hidden"
       >
-        <h1 className="text-center text-[90px] font-bold text-gray-700 leading-none pt-[200px] pb-[150px]">
+        <h1 className="text-center text-[90px] font-bold text-gray-900 leading-none pt-[200px] pb-[150px]">
           Embrace the future of <br /> urban mobility
         </h1>
         <div className="w-10/12 mx-auto flex flex-wrap mb-10 relative">
@@ -50,7 +50,7 @@ const Service = () => {
               ref={circleRef}
               className="w-14 h-14 bg-gray-700 rounded-full flex justify-center items-center"
             >
-              <h1 ref={textRef} className="text-white">
+              <h1 ref={textRef} className="text-white ">
                 minimal
               </h1>
             </div>
