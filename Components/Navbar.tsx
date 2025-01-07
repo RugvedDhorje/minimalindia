@@ -1,6 +1,6 @@
 const Navbar = () => {
   return (
-    <div className="max-w-screen-2xl pt-5">
+    <div className="max-w-screen-2xl pt-5 ">
       <div className="w-6/12 mx-auto flex shadow-lg items-center bg-white py-3 rounded-2xl">
         <div className="w-1/3 ml-6">
           <img src="/logo.png" alt="" className="h-[3.5vw]" />
